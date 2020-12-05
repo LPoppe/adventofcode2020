@@ -1,0 +1,9 @@
+.stack-work/
+stack.yaml.lock
+dist-newstyle
+*.hi
+*.o
+*.dyn_hi
+*.dyn_o
+*.p_o
+*~
