@@ -11,3 +11,6 @@ unsafeReadText = fromMaybe (panic "wut") . readText
 
 andThen :: (a -> Maybe b) -> Maybe a -> Maybe b
 andThen = (=<<)
+
+indexed :: [a] -> [(Int, a)]
+indexed = zip [0..]
