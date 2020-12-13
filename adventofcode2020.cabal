@@ -56,6 +56,7 @@ library
     , pretty-show
     , protolude
     , text
+    , transformers
     , MissingH
   ghc-options:
     -Wall
@@ -64,7 +65,7 @@ library
     OverloadedStrings
   default-language: Haskell2010
 
-executable adventofcode2020-exe
+executable adventofcode2020
   main-is: Main.hs
   other-modules:
       Paths_adventofcode2020
