@@ -40,6 +40,7 @@ library
       Ex07
       Ex08
       Ex09
+      Ex10
       CountSeq
       Util
   other-modules:
