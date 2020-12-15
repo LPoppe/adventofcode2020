@@ -41,6 +41,7 @@ library
       Ex08
       Ex09
       Ex10
+      Ex11
       CountSeq
       Util
   other-modules:
@@ -64,7 +65,7 @@ library
     OverloadedStrings
   default-language: Haskell2010
 
-executable adventofcode2020-exe
+executable adventofcode2020
   main-is: Main.hs
   other-modules:
       Paths_adventofcode2020
