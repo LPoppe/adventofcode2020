@@ -57,6 +57,7 @@ library
     , pretty-show
     , protolude
     , text
+    , transformers
     , MissingH
   ghc-options:
     -Wall
