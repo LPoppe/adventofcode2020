@@ -44,6 +44,7 @@ library
       Ex11
       Ex12
       Ex12b
+      Ex13
       CountSeq
       Util
   other-modules:
